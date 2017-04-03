@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Angularjs2BackandJavascriptPage {
+export class Angular2ExamplePage {
   navigateTo() {
     return browser.get('/');
   }

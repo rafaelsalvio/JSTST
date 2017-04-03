@@ -1,10 +1,10 @@
-import { Angularjs2BackandJavascriptPage } from './app.po';
+import { Angular2ExamplePage } from './app.po';
 
-describe('angularjs2-backand-javascript App', function() {
-  let page: Angularjs2BackandJavascriptPage;
+describe('angular2-example App', () => {
+  let page: Angular2ExamplePage;
 
   beforeEach(() => {
-    page = new Angularjs2BackandJavascriptPage();
+    page = new Angular2ExamplePage();
   });
 
   it('should display message saying app works', () => {
