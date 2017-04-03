@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core'
 import { Router } from '@angular/router';
 import { BackandService, Response } from '@backand/angular2-sdk';
-// import io from 'socket.io-client';
-// window["io"] = io;
 
 @Component({
   selector: 'app-root',

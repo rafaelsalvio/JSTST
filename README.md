@@ -14,7 +14,7 @@ Then install dependendencies with:
 
 # Backand 
 
-Uses `angular2bknd-sdk`. See [angular2bknd-sdk](https://github.com/backand/angular2bknd-sdk) about required dependencies.
+Uses `angular2-sdk`. See [angular2-sdk](https://github.com/backand/angular2-sdk) about required dependencies.
 
 # App Structure
 
